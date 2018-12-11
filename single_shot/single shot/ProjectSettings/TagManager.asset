@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - player
+  - Soil
+  - enemy
+  - Restart
+  - Score
+  - getScore
+  - Score0
+  - Score1
+  - Score2
+  - Score3
+  - Score4
+  - Score5
+  - Score6
+  - Score7
+  - Score8
+  - Score9
+  - targetPoint
+  - Player0
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  - Player5
+  - Player6
+  - Player7
+  - Player8
+  - Player9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - player
+  - terr
+  - playerPoint
+  - targetPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
